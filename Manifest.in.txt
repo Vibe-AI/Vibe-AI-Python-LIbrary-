@@ -1,0 +1,7 @@
+include README.md
+include LICENSE
+include firewall_model.pkl
+recursive-include tests *
+recursive-include docs *
+recursive-exclude * __pycache__
+recursive-exclude * *.py[co]
