@@ -15,7 +15,7 @@ class data_breache(BaseModel):
     pkts_received: float
 
 def load_model():
-    pickle_in = open("C:/Users/USER/Desktop/VibeAI_2/model/firewall_model.pkl", "rb")
+    pickle_in = open("model/firewall_model.pkl", "rb")
     classifier = pickle.load(pickle_in)
     return classifier
 
