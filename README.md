@@ -16,13 +16,13 @@
 - Make sure you have Python installed in your system.
 - Run Following command in the CMD.
  ```
-  pip install vibeAI2
+  pip install vibeAI23
   ```
 ## Example
 
  ```
 # test.py
-from vibeAI2 import data_breache, predict_breach
+from src.vibeAI23 import data_breache, predict_breach
 
   ```
 
