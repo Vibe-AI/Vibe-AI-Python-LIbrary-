@@ -1,0 +1,4 @@
+sockets==1.0.0
+pandas==1.2.0
+numpy==1.24.2
+pydantic==1.10.7
