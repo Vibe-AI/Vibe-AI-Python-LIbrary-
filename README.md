@@ -5,7 +5,7 @@
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)   [![Python 3.8](https://img.shields.io/badge/python-3.8-yellow.svg)](https://www.python.org/downloads/release/python-380/)   
 
 
-## Functionality of the vibeAI2
+## Functionality of the vibeAI24
 
 - Better Looking With AI  
 - Block unauthorized  user 
@@ -16,13 +16,13 @@
 - Make sure you have Python installed in your system.
 - Run Following command in the CMD.
  ```
-  pip install vibeAI23
+  pip install vibeAI24
   ```
 ## Example
 
  ```
 # test.py
-from src.vibeAI23 import data_breache, predict_breach
+from src.vibeAI24 import data_breache, predict_breach
 
   ```
 
