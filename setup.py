@@ -4,7 +4,7 @@ import setuptools
 with open("ReadME.md","r") as fh:
     long_description = fh.read()
 setup(
-    name='vibeAI23',
+    name='vibeAI24',
     version='1.0.2',
     description='A library for predicting and blocking suspicious traffic',
     author='Vibe AI',
@@ -12,7 +12,7 @@ setup(
     long_description=long_description,
     long_description_content_type='text/markdown',
     packages=setuptools.find_packages(),
-    keywords=['cyberAI','AIcyber','vibeAI23'],
+    keywords=['cyberAI','AIcyber','vibeAI24'],
     install_requires=[
         'numpy',
         'pandas',
@@ -24,5 +24,5 @@ setup(
         'Operating System :: OS Independent',
     ],
     python_requires='>=3.6',
-    py_modules=['vibeAI23']
+    py_modules=['vibeAI24']
 )
