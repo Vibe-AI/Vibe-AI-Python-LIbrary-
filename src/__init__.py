@@ -1,1 +1,1 @@
-from src.vibeAI24 import data_breache, predict_breach
+from vibe import predict_breach
