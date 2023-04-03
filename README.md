@@ -4,7 +4,7 @@
 
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)   [![Python 3.8](https://img.shields.io/badge/python-3.8-yellow.svg)](https://www.python.org/downloads/release/python-380/)   
 
- Python library that provides functions for predicting network traffic breaches using machine learning models.This is a Python library for detecting suspicious network traffic using machine learning and blocking it after it has been predicted a certain number of times.If the traffic is predicted to be suspicious for a certain number of times, the library calls a function to block the traffic.
+ Python library that provides functions for predicting network traffic breaches using machine learning models. This is a Python library for detecting suspicious network traffic using machine learning and blocking it after it has been predicted a certain number of times.If the traffic is predicted to be suspicious for a certain number of times, the library calls a function to block the traffic.
 
 ## Functionality of the vibeA Library 
 
@@ -33,7 +33,8 @@
     pip install -r requirements.txt  
   ```
   
-5. After the dependencies are installed, you can import the library into your Python project using the following statement users can import the library in their Python code and use its functions and classes as needed.
+5. After the dependencies are installed, you can import the library into your Python project using the following statement users 
+can import the library in their Python code and use its functions and classes as needed.
 
 import vibe
 
@@ -41,7 +42,9 @@ from vibe import predict_breach
 
 and the remaning code you can take from test.py file in github repository.
   
-"Make sure that you have saved the library in the same directory as your Python script. If you have saved it in a different directory, you will need to provide the path to the directory containing the library in your import statement."
+"Make sure that you have saved the library in the same directory as your Python script. If you have saved it in a different directory, 
+you will need to provide the path to the directory containing the library in your import statement."
   
-Now your good to go to use our library in your application or project, this code should work as expected after installing the library. If you are facing any issues feel free to connect with us : https://vibeai.web.app/ here is our website you can directly chat with us :)
+Now your good to go to use our library in your application or project, this code should work as expected after installing the library. 
+If you are facing any issues feel free to connect with us : https://vibeai.web.app/ here is our website you can directly chat with us :)
 
